@@ -1,0 +1,24 @@
+{
+  "name": "tgbhy-bot",
+  "version": "0.1.0",
+  "description": "It's a bot test",
+  "main": "index.js",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^13.0.0-dev.t1627992462.35fa3b3",
+    "glob": "^7.1.7",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "os": "^0.1.2",
+    "package": "^1.0.1",
+    "promisify": "0.0.3",
+    "tcp": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tgbhy",
+  "license": "ISC"
+}
